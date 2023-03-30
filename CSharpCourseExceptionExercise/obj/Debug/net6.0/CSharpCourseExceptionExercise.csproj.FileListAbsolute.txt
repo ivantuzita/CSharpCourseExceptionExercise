@@ -1,0 +1,15 @@
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\bin\Debug\net6.0\CSharpCourseExceptionExercise.exe
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\bin\Debug\net6.0\CSharpCourseExceptionExercise.deps.json
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\bin\Debug\net6.0\CSharpCourseExceptionExercise.runtimeconfig.json
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\bin\Debug\net6.0\CSharpCourseExceptionExercise.dll
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\bin\Debug\net6.0\CSharpCourseExceptionExercise.pdb
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\CSharpCourseExceptionExercise.csproj.AssemblyReference.cache
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\CSharpCourseExceptionExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\CSharpCourseExceptionExercise.AssemblyInfoInputs.cache
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\CSharpCourseExceptionExercise.AssemblyInfo.cs
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\CSharpCourseExceptionExercise.csproj.CoreCompileInputs.cache
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\CSharpCourseExceptionExercise.dll
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\refint\CSharpCourseExceptionExercise.dll
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\CSharpCourseExceptionExercise.pdb
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\CSharpCourseExceptionExercise.genruntimeconfig.cache
+D:\programming\C#\CSharpCourseExceptionExercise\CSharpCourseExceptionExercise\obj\Debug\net6.0\ref\CSharpCourseExceptionExercise.dll
